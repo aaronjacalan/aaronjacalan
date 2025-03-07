@@ -1,5 +1,5 @@
-<p align="center">
-  <b>## 2nd Year Computer Science Student @ CIT-U</b>
+<p align="center" style="font-size: 24px;">
+  <b > 2nd Year Computer Science Student @ CIT-U</b>
 </p>
 
 
