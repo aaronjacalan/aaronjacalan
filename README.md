@@ -1,6 +1,5 @@
 <h2 align="center"><b>2nd-Year Computer Science Student @ CIT-U</b></h2>
 
-<br>
 <h4 align="center"><b>My brain at 3AM debugging code:</b></h4>
 
 <p align="center">
