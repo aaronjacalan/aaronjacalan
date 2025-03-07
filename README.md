@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <img src="https://github.com/user-attachments/assets/d5231214-7b0d-4166-b0ef-f10afd2bf905" alt="Image" width="690">
+  <img src="https://github.com/user-attachments/assets/546bbc53-2aea-4482-9503-3a9be07b3937" alt="Image" width="690">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake-dark.svg" />
