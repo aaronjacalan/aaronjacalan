@@ -1,7 +1,9 @@
 <h2 align="center"><b>2nd Year Computer Science Student @ CIT-U</b></h2>
 
 
-![Image](https://github.com/user-attachments/assets/53b493f0-4ee4-4277-9a28-25514705b8c5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53b493f0-4ee4-4277-9a28-25514705b8c5" alt="Image">
+</p>
 
 
 <picture>
