@@ -1,3 +1,3 @@
 **2nd Year Computer Science Student @ CIT-U**
 
-![Image](https://github.com/user-attachments/assets/fe2bd3de-fd6d-4485-851e-a32b7ddb5a4d)
+![Image](https://github.com/user-attachments/assets/0a979591-413d-4cfb-80ec-e008e9eaf89c)
