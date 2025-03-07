@@ -1,6 +1,6 @@
 <h2 align="center"><b>2nd-Year Computer Science Student @ CIT-U</b></h2>
 
-<h4 align="center" background="white"><b>My brain at 3AM debugging code:</b></h4>
+<h4 align="center" style="background-color: white; color: black;"><b>My brain at 3AM debugging code:</b></h4>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/546bbc53-2aea-4482-9503-3a9be07b3937" alt="Debugging at 3AM" width="420">
