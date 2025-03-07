@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/546bbc53-2aea-4482-9503-3a9be07b3937" alt="Debugging at 3AM" width="420">
 </p>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake.svg" />
   <img alt="GitHub activity graph" src="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake.svg" />
