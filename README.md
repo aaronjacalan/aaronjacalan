@@ -1,7 +1,6 @@
-<h2 align = "center"><b> 2nd-Year Computer Science Student @ CIT-U </b></h2>
+<br> <h2 align = "center"><b> 2nd-Year Computer Science Student @ CIT-U </b></h2> <br>
 
 <p align="center">
-  <br>
   <img src="https://github.com/user-attachments/assets/546bbc53-2aea-4482-9503-3a9be07b3937" alt="Image" width="420">
   
   <picture>
