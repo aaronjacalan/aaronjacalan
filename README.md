@@ -1,6 +1,4 @@
-<p align="center" style="font-size: 24px;">
-  <b > 2nd Year Computer Science Student @ CIT-U</b>
-</p>
+<h2 align="center">2nd Year Computer Science Student @ CIT-U</h2>
 
 
 ![Image](https://github.com/user-attachments/assets/53b493f0-4ee4-4277-9a28-25514705b8c5)
