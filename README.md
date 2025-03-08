@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7931c92-d158-46bf-93ee-2e83bf2567c9" width="100%">
+  <img src="https://github.com/user-attachments/assets/d7931c92-d158-46bf-93ee-2e83bf2567c9" width="100%" height="200px">
 </p>
 
 <h2 align="center"><b>2nd-Year Computer Science Student @ CIT-U</b></h2>
