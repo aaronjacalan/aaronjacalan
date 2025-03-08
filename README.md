@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c28a44e1-9ba9-419c-8c91-a94672f75cd2" width="30%">
 </p>
 
-<h2 align="center"><b>2nd-Year Computer Science Student @ CIT-U</b></h2>
+<h3 align="center"><b>2nd-Year Computer Science Student @ CIT-U</b></h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/be39ef29-28f0-4349-bf77-86125bc0e04e" width="400">
