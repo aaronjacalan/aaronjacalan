@@ -1,5 +1,5 @@
 <h1 align = "center"><b>HENLO</b></h1>
-<p align = "center"><br>I am [insert your name here], I am currently a [insert current year level] student at [insert college name here]</p>
+<p align = "center"><br>I am [insert your name here], a [insert current year level] student at [insert college name here], currently surviving on my hopes and dreams, panic attacks, and sheer audacity. My hobbies include staring blankly at assignments or playing instead of doing them, questioning my life choices at 2 AM, and pretending I have my life together.</p>
 <h1 align="center"><b></b></h1>
 
 <p align="center">
