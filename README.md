@@ -1,5 +1,5 @@
-<h2 align="center"><b>HELLO THERE</b></h2>
-<p>I am [insert your name here], I am currently a [insert current year level] student at [insert college name here]</p>
+<h2 align = "center"><b>HELLO THERE</b></h2>
+<p align = "center">I am [insert your name here], I am currently a [insert current year level] student at [insert college name here]</p>
 
 <h2 align="center"><b>HELLO THERE</b></h2>
 
