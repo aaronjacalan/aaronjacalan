@@ -1,4 +1,7 @@
-<h2 align="center"><b>2nd-Year Computer Science Student @ CIT-U</b></h2>
+<h2 align="center"><b>HELLO THERE</b></h2>
+<p>I am [insert your name here], I am currently a [insert current year level] student at [insert college name here]</p>
+
+<h2 align="center"><b>HELLO THERE</b></h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5529ac47-482f-43a4-8476-744b58993034" width="69%">
@@ -9,3 +12,4 @@
     <img alt="GitHub activity graph" src="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake.svg" />
   </picture>
 </p>
+
