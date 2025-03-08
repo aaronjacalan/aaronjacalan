@@ -1,6 +1,6 @@
 <h1 align = "center"><b>HENLO</b></h1>
 <p align = "center"><br>
-I am [insert your name here], a [insert current year level] student at [insert college name here], currently surviving on my hopes and dreams, panic attacks, and sheer audacity. My hobbies include staring procrastinating on my assignments and projects, questioning my life choices at 2 AM, and pretending that everything is fine.
+I am [insert your name here], a [insert current year level] student at [insert college name here], currently surviving on my hopes and dreams, procrastination, and full sheer copium. My hobbies include questioning my life choices at 2 AM and pretending that everything is fine.
 </p>
 <h1 align="center"><b></b></h1>
 
