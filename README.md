@@ -1,5 +1,5 @@
 <h1 align = "center"><b>HENLO</b></h1>
-<p align = "center">## I am [insert your name here], I am currently a [insert current year level] student at [insert college name here]</p>
+<p align = "center">I am [insert your name here], I am currently a [insert current year level] student at [insert college name here]</p>
 
 <h1 align="center"><b></b></h1>
 
