@@ -2,16 +2,17 @@
   <img src="https://github.com/user-attachments/assets/8456ea81-df4e-4ebd-a5f0-8e80e9bf64b2" width="100%">
 </p>
 
+<h1></h1>
 <p align="center">
   <img src="https://img.shields.io/badge/POWERED%20BY:-black?style=for-the-badge">
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Coffee-brown?style=for-the-badge&logo=coffeescript&logoColor=white">
   <img src="https://img.shields.io/badge/Red%20Bull-red?style=for-the-badge&logo=redbull&logoColor=white">
 </p>
 
-<br>
 <h1></h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/TECH%20STACK-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/TECH%20STACK:-black?style=for-the-badge">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
