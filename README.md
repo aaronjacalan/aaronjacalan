@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/POWERED%20BY-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Coffee☕-brown?style=for-the-badge">
+  <img src="https://img.shields.io/badge/POWERED%20BY:-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Coffee☕-brown?style=for-the-badge&logo=coffeescript&logoColor=white">
   <img src="https://img.shields.io/badge/Red%20Bull-red?style=for-the-badge&logo=redbull&logoColor=white">
 </p>
 
