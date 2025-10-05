@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/572ba9d4-bb64-461b-8433-7a78b0f95529" width="75%">
+  <img src="https://github.com/user-attachments/assets/99de9216-218d-4c2e-8156-35745f6bc04a" width="100%">
 </p>
 
 <h1 align="center"><b>HENLO</b></h1>
