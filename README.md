@@ -1,4 +1,4 @@
-<b>#HENLO</b>
+<h1 align="center"><b>HENLO</b></h1>
 
 <p align="center">
   I am <b><u>[insert your name here]</u></b>, a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>, currently surviving on my hopes, dreams, and an unhealthy dose of procrastination mixed with full sheer copium.  
