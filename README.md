@@ -4,6 +4,13 @@
 
 <h1></h1>
 <p align="center">
+  <img src="https://img.shields.io/badge/Powered%20By-Coffee☕-brown?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Powered%20By-Red%20Bull-red?style=for-the-badge&logo=redbull&logoColor=white">
+</p>
+
+<br>
+<h1></h1>
+<p align="center">
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=00599C">
   <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=239120">
   <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
@@ -13,8 +20,6 @@
   <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
   <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4">
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB">
-  <img src="https://img.shields.io/badge/Powered%20By-Coffee☕-brown?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Powered%20By-Red%20Bull-red?style=for-the-badge&logo=redbull&logoColor=white" />
 </p>
 
 <h1></h1>
