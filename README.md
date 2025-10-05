@@ -14,6 +14,7 @@
   Basically, I’m majoring in “please send help” with a minor in <b><u>[insert useless but fun hobby like binge-watching cat videos or speed-napping]</u></b>.
 </p>
 
+<br>
 <h1 align="center"><b>Tech Stack</b></h1>
 <p align="center">
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=00599C">
@@ -28,6 +29,7 @@
 </p>
 
 <br>
+<h1 align="center"></h1>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake-dark.svg" />
