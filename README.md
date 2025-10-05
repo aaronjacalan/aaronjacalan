@@ -4,15 +4,28 @@
 
 <h1 align="center"></h1>
 <p align="center">
-  <p align="center">
-  I am <b><u>[insert your name here]</u></b>, a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>, running on hopes, dreams, procrastination, and <b><u>[insert energy drink]</u></b>.  
-  <br><br>
-  My hobbies include questioning my life choices at 2 AM, staring at notes without learning anything, and pretending everything’s fine.  
-  <br><br>
-  On weekends I speedrun overdue assignments fueled by <b><u>[insert pancit canton here]</u></b>.  
-  <br><br>
-  Basically, I’m majoring in “please send help” with a minor in copium.
+
+  I am <b><u>[insert your name here]</u></b>,  
+  a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>,  
+  running on hopes, dreams, procrastination, and <b><u>[insert energy drink]</u></b>.  
+
+  <br>
+
+  My hobbies include questioning my life choices at 2 AM,  
+  staring at notes without learning anything,  
+  and pretending everything’s fine (it’s not).  
+
+  <br>
+
+  On weekends, I speedrun overdue assignments fueled by <b><u>[insert pancit canton here]</u></b>.  
+
+  <br>
+
+  Basically, I’m majoring in <b>“please send help”</b>  
+  with a minor in <b>copium</b>.  
+
 </p>
+
 
 <br>
 <h1 align="center"><b>Tech Stack</b></h1>
@@ -26,6 +39,8 @@
   <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
   <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4">
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/Powered%20By-Coffee☕-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered%20By-Red%20Bull-red?style=for-the-badge&logo=redbull&logoColor=white" />
 </p>
 
 <br>
