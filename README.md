@@ -1,6 +1,7 @@
 <p align="center">
-  <span style="font-size:40;"><b>HENLO</b></span>
+  <img src="https://img.shields.io/badge/HENLO-black?style=for-the-badge&logoColor=white" alt="HENLO">
 </p>
+
 <p align="center">
   I am <b><u>[insert your name here]</u></b>, a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>, currently surviving on my hopes, dreams, and an unhealthy dose of procrastination mixed with full sheer copium.  
   My daily routine basically consists of <b>waking up late</b>, <b>questioning my existence</b>, and <b>running on <u>[insert energy drink]</u></b> because sleep is apparently optional at this point.
