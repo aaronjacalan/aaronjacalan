@@ -1,15 +1,16 @@
 <h1 align = "center"><b>HENLO</b></h1>
 <p align="center">
-  <br>
-  I am <b>[insert your name here]</b>, a <b>[insert current year level]</b> student at <b>[insert college name here]</b>, currently surviving on my hopes, dreams, and an unhealthy dose of procrastination mixed with full sheer copium.  
-  <br><br>
-  My daily routine basically consists of <b>waking up late</b>, <b>questioning my existence</b>, and <b>running on [insert energy drink]</b> because sleep is apparently optional at this point.  
-  <br><br>
-  My hobbies include staring at my notes for three hours while actually absorbing nothing, questioning my life choices at 2 AM while playing [insert favorite video game], and pretending that everything is fine (it’s not).  
-  <br><br>
-  On weekends, you can catch me speedrunning assignments that were due three days ago, fueled by [insert pancit canton here] and the sheer willpower of “due tomorrow means do tomorrow.”  
-  <br><br>
-  In short, I am basically a professional in the field of academic chaos and emotional damage, with a minor in [insert hobbies such as traveling, playing football, etc.] and a major in “please send help.”
+  I am <b><u>[insert your name here]</u></b>, a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>, currently surviving on my hopes, dreams, and an unhealthy dose of procrastination mixed with full sheer copium.  
+  My daily routine basically consists of <b>waking up late</b>, <b>questioning my existence</b>, and <b>running on <u>[insert energy drink]</u></b> because sleep is apparently optional at this point.
+</p>
+
+<p align="center">
+  My hobbies include staring at my notes for three hours while actually absorbing nothing, questioning my life choices at 2 AM while playing <b><u>[insert favorite video game]</u></b>, and pretending that everything is fine (it’s not).  
+  On weekends, you can catch me speedrunning assignments that were due three days ago, fueled by <b><u>[insert pancit canton here]</u></b> and the sheer willpower of “due tomorrow means do tomorrow.”
+</p>
+
+<p align="center">
+  In short, I am basically a professional in the field of academic chaos and emotional damage, with a minor in <b><u>[insert hobbies such as traveling, playing football, etc.]</u></b> and a major in “please send help.”
 </p>
 
 <h1 align="center"><b></b></h1>
