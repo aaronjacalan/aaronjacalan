@@ -1,36 +1,27 @@
 <h1 align="center"><b>HENLO</b></h1>
 
 <p align="center">
-  I am <b><u>[insert your name here]</u></b>, a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>, currently surviving on my hopes, dreams, and an unhealthy dose of procrastination mixed with full sheer copium.  
-  My daily routine basically consists of <b>waking up late</b>, <b>questioning my existence</b>, and <b>running on <u>[insert energy drink]</u></b> because sleep is apparently optional at this point.
-</p>
-
-<p align="center">
-  My hobbies include staring at my notes for three hours while actually absorbing nothing, questioning my life choices at 2 AM while playing <b><u>[insert favorite video game]</u></b>, and pretending that everything is fine (it’s not).  
-  On weekends, you can catch me speedrunning assignments that were due three days ago, fueled by <b><u>[insert pancit canton here]</u></b> and the sheer willpower of “due tomorrow means do tomorrow.”
-</p>
-
-<p align="center">
-  In short, I am basically a professional in the field of academic chaos and emotional damage, with a minor in <b><u>[insert hobbies such as traveling, playing football, etc.]</u></b> and a major in “please send help.”
+  I am <b><u>[insert your name here]</u></b>, a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>, running on hopes, dreams, procrastination, and <b><u>[insert energy drink]</u></b>. My hobbies include questioning my life choices at 2 AM, staring at notes without learning anything, and pretending everything’s fine (it’s not). On weekends I speedrun overdue assignments fueled by <b><u>[insert pancit canton here]</u></b>. Basically, I’m majoring in “please send help” with a minor in <b><u>[insert hobbies such as traveling, playing football, etc.]</u></b>.
 </p>
 
 <h1 align="center"><b></b></h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5529ac47-482f-43a4-8476-744b58993034" width="69%">
+  <img src="https://github.com/user-attachments/assets/5529ac47-482f-43a4-8476-744b58993034" width="55%">
 </p>
 
 <h1 align="center"><b>Tech Stack</b></h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=00599C" height="50">
-  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=239120" width="5%">
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="50">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" height="50">
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=ED8B00" height="50">
-  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F" height="50">
-  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF" height="50">
-  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4" height="50">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" height="50">
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=00599C" width="7%">
+  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=239120" width="7%">
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" width="7%">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" width="7%">
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=ED8B00" width="7%">
+  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F" width="7%">
+  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF" width="7%">
+  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4" width="7%">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" width="7%">
 </p>
+
 <br>
 <p align="center">
   <picture>
