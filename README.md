@@ -8,7 +8,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Coffee-brown?style=for-the-badge&logo=coffeescript&logoColor=white">
   <img src="https://img.shields.io/badge/Red%20Bull-red?style=for-the-badge&logo=redbull&logoColor=white">
-  <img src="https://img.shields.io/badge/Pancit%20Canton-orange?style=for-the-badge&colorA=FFA500&colorB=FF0000">
+   <img src="https://img.shields.io/badge/Pancit%20Canton-orange?style=flat&colorA=FFA500&colorB=FF0000">
   <img src="https://img.shields.io/badge/Apex%20Legends-black?style=for-the-badge&logo=apexlegends&logoColor=white">
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white">
   <img src="https://img.shields.io/badge/CS2-1A1A1A?style=for-the-badge&logo=counterstrike&logoColor=white">
