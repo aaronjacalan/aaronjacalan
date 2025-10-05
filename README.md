@@ -33,7 +33,7 @@
 
 <h1></h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/SNEK-black?style=for-the-badge" width="20%">
+  <img src="https://img.shields.io/badge/SNEK-black?style=for-the-badge">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake.svg" />
