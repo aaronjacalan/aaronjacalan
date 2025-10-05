@@ -14,8 +14,10 @@ I am [insert your name here], a [insert current year level] student at [insert c
   </picture>
 </p>
 
-<img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" height="32">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C" height="32">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" height="32">
-<img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=0078d7" height="32">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032" height="32">
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F" height="32">
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="32">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" height="32">
+  <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078d7" height="32">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" height="32">
+</p>
