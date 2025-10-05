@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:40px;"><b>HENLO</b></span>
+  <span style="font-size:40;"><b>HENLO</b></span>
 </p>
 <p align="center">
   I am <b><u>[insert your name here]</u></b>, a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>, currently surviving on my hopes, dreams, and an unhealthy dose of procrastination mixed with full sheer copium.  
