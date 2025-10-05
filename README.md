@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/HENLO-00000000?style=for-the-badge&logoColor=white&labelColor=00000000&color=00000000" height="80">
-</p>
+#<b>HENLO</b>
 
 <p align="center">
   I am <b><u>[insert your name here]</u></b>, a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>, currently surviving on my hopes, dreams, and an unhealthy dose of procrastination mixed with full sheer copium.  
