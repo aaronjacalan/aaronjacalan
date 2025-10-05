@@ -11,15 +11,15 @@
 
 <h1 align="center"><b>Tech Stack</b></h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=00599C" width="7%">
-  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=239120" width="7%">
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" width="7%">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" width="7%">
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=ED8B00" width="7%">
-  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F" width="7%">
-  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF" width="7%">
-  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4" width="7%">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" width="7%">
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=00599C">
+  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=239120">
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
+  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F">
+  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
+  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB">
 </p>
 
 <br>
