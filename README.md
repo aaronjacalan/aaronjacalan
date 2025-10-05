@@ -1,4 +1,4 @@
-<h1 align = "center"><b>HENLO</b></h1>
+<p align="center"><font size="7"><b>HENLO</b></font></p>
 <p align="center">
   I am <b><u>[insert your name here]</u></b>, a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>, currently surviving on my hopes, dreams, and an unhealthy dose of procrastination mixed with full sheer copium.  
   My daily routine basically consists of <b>waking up late</b>, <b>questioning my existence</b>, and <b>running on <u>[insert energy drink]</u></b> because sleep is apparently optional at this point.
@@ -30,8 +30,7 @@
   <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4" height="50">
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" height="50">
 </p>
-
-<h1 align="center"><b>snek</b></h1>
+<br>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake-dark.svg" />
