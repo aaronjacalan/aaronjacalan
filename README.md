@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/HENLO-black?style=for-the-badge&logoColor=white" alt="HENLO">
+  <img src="https://img.shields.io/badge/HENLO-00000000?style=for-the-badge&logoColor=white&labelColor=00000000&color=00000000" height="80">
 </p>
 
 <p align="center">
