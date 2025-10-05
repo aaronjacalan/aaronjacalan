@@ -1,31 +1,13 @@
-<p align="center">
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/48a2a148-7c13-426c-b392-c5b591b87886" /><p align="center">
   <img src="https://github.com/user-attachments/assets/8456ea81-df4e-4ebd-a5f0-8e80e9bf64b2" width="100%">
 </p>
 
 <h1 align="center"></h1>
-<p align="center">
-
-  I am <b><u>[insert your name here]</u></b>,  
-  a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>,  
-  running on hopes, dreams, procrastination, and <b><u>[insert energy drink]</u></b>.  
-
-  <br>
-
-  My hobbies include questioning my life choices at 2 AM,  
-  staring at notes without learning anything,  
-  and pretending everything’s fine (it’s not).  
-
-  <br>
-
-  On weekends, I speedrun overdue assignments fueled by <b><u>[insert pancit canton here]</u></b>.  
-
-  <br>
-
-  Basically, I’m majoring in <b>“please send help”</b>  
-  with a minor in <b>copium</b>.  
-
+<p>
+## I’m <b><u>[name]</u></b>, a <b><u>[year level]</u></b> at <b><u>[college]</u></b>.<br>  
+## Fueled by <b><u>[energy drink]</u></b>, regret, and pancit canton.<br>  
+## Currently speedrunning academic failure with a minor in denial.  
 </p>
-
 
 <br>
 <h1 align="center"><b>Tech Stack</b></h1>
