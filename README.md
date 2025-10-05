@@ -22,7 +22,7 @@
 <h1 align="center"><b>Tech Stack</b></h1>
 <p align="center">
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=00599C" height="50">
-  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=239120" width="8%">
+  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=239120" width="5%">
   <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="50">
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" height="50">
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=ED8B00" height="50">
