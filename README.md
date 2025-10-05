@@ -2,11 +2,6 @@
   <img src="https://github.com/user-attachments/assets/8456ea81-df4e-4ebd-a5f0-8e80e9bf64b2" width="100%">
 </p>
 
-<h1 align="center"></h1>
-## I’m **[Your Name]**, a **[Year Level]** student at **[College Name]**.  
-## Fueled by **[Favorite Energy Drink]**, regret, and Lucky Me! Pancit Canton.  
-## Currently speedrunning academic failure with a minor in denial.
-
 <br>
 <h1 align="center"><b>Tech Stack</b></h1>
 <p align="center">
