@@ -4,22 +4,23 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/POWERED%20BY:-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Coffee☕-brown?style=for-the-badge&logo=coffeescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Coffee-brown?style=for-the-badge&logo=coffeescript&logoColor=white">
   <img src="https://img.shields.io/badge/Red%20Bull-red?style=for-the-badge&logo=redbull&logoColor=white">
 </p>
 
 <br>
 <h1></h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=00599C">
-  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=239120">
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
-  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F">
-  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
-  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/TECH%20STACK-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
 </p>
 
 <h1></h1>
