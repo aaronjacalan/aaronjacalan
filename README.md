@@ -2,10 +2,10 @@
   <img src="https://github.com/user-attachments/assets/8456ea81-df4e-4ebd-a5f0-8e80e9bf64b2" width="100%">
 </p>
 
-<h1></h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Powered%20By-Coffee☕-brown?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Powered%20By-Red%20Bull-red?style=for-the-badge&logo=redbull&logoColor=white">
+  <img src="https://img.shields.io/badge/POWERED%20BY-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Coffee☕-brown?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Red%20Bull-red?style=for-the-badge&logo=redbull&logoColor=white">
 </p>
 
 <br>
