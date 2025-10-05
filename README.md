@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center"></h1>
-## I’m <b><u>[insert your name here]</u></b>, a <b><u>[insert your current year level]</u></b> at <b><u>[insert your college name]</u></b>.<br>  
-## Fueled by <b><u>[insert favorite energy drink here]</u></b>, regret, and Lucky Me! Pancit Canton.<br>  
-## Currently speedrunning academic failure with a minor in denial.  
+## I’m **[Your Name]**, a **[Year Level]** student at **[College Name]**.  
+## Fueled by **[Favorite Energy Drink]**, regret, and Lucky Me! Pancit Canton.  
+## Currently speedrunning academic failure with a minor in denial.
 
 <br>
 <h1 align="center"><b>Tech Stack</b></h1>
