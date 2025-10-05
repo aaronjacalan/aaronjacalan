@@ -1,12 +1,11 @@
-<h1 align="center"><b>HENLO</b></h1>
-
-<p align="center">
-  I am <b><u>[insert your name here]</u></b>, a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>, running on hopes, dreams, procrastination, and <b><u>[insert energy drink]</u></b>. My hobbies include questioning my life choices at 2 AM, staring at notes without learning anything, and pretending everything’s fine (it’s not). On weekends I speedrun overdue assignments fueled by <b><u>[insert pancit canton here]</u></b>. Basically, I’m majoring in “please send help” with a minor in <b><u>[insert hobbies such as traveling, playing football, etc.]</u></b>.
-</p>
-
 <h1 align="center"><b></b></h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5529ac47-482f-43a4-8476-744b58993034" width="55%">
+  <img src="https://github.com/user-attachments/assets/572ba9d4-bb64-461b-8433-7a78b0f95529" width="55%">
+</p>
+
+<h1 align="center"><b>HENLO</b></h1>
+<p align="center">
+  I am <b><u>[insert your name here]</u></b>, a <b><u>[insert current year level]</u></b> student at <b><u>[insert college name here]</u></b>, running on hopes, dreams, procrastination, and <b><u>[insert energy drink]</u></b>. My hobbies include questioning my life choices at 2 AM, staring at notes without learning anything, and pretending everything’s fine (it’s not). On weekends I speedrun overdue assignments fueled by <b><u>[insert pancit canton here]</u></b>. Basically, I’m majoring in “please send help” with a minor in <b><u>[insert hobbies such as traveling, playing football, etc.]</u></b>.
 </p>
 
 <h1 align="center"><b>Tech Stack</b></h1>
