@@ -1,13 +1,18 @@
 <h1 align = "center"><b>HENLO</b></h1>
-<p align = "center"><br>
-I am [insert your name here], a [insert current year level] student at [insert college name here], currently surviving on my hopes, dreams, and an unhealthy dose of procrastination mixed with full sheer copium. My daily routine basically consists of waking up late, questioning my existence, and running on [insert energy drink] because sleep is apparently optional at this point.
-
-My hobbies include staring at my notes for three hours while actually absorbing nothing, questioning my life choices at 2 AM while playing [insert favorite video game], and pretending that everything is fine (its not). On weekends, you can catch me speedrunning assignments that were due three days ago, fueled by [insert snack of choice] and the sheer willpower of “due tomorrow means do tomorrow.”
-
-In short, I am basically a professional in the field of academic chaos and emotional damage, with a minor in [insert hobbies such as traveling, playing football, etc.] and a major in “please send help.”
+<p align="center">
+  <br>
+  I am <b>[insert your name here]</b>, a <b>[insert current year level]</b> student at <b>[insert college name here]</b>, currently surviving on my hopes, dreams, and an unhealthy dose of procrastination mixed with full sheer copium.  
+  <br><br>
+  My daily routine basically consists of <b>waking up late</b>, <b>questioning my existence</b>, and <b>running on [insert energy drink]</b> because sleep is apparently optional at this point.  
+  <br><br>
+  My hobbies include staring at my notes for three hours while actually absorbing nothing, questioning my life choices at 2 AM while playing [insert favorite video game], and pretending that everything is fine (it’s not).  
+  <br><br>
+  On weekends, you can catch me speedrunning assignments that were due three days ago, fueled by [insert pancit canton here] and the sheer willpower of “due tomorrow means do tomorrow.”  
+  <br><br>
+  In short, I am basically a professional in the field of academic chaos and emotional damage, with a minor in [insert hobbies such as traveling, playing football, etc.] and a major in “please send help.”
 </p>
-<h1 align="center"><b></b></h1>
 
+<h1 align="center"><b></b></h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5529ac47-482f-43a4-8476-744b58993034" width="69%">
 </p>
