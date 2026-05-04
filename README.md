@@ -31,11 +31,12 @@
 </p>
 
 <h1 align="center"></h1>
-<picture>
-  <source srcset=".github/workflows/banner_dark.svg" media="(prefers-color-scheme: dark)">
-  <source srcset=".github/workflows/banner_light.svg" media="(prefers-color-scheme: light)">
-  <img src=".github/workflows/banner_light.svg" alt="banner" />
-</picture>
 <p align="center">
+  <picture>
+    <source srcset=".github/workflows/banner_dark.svg" media="(prefers-color-scheme: dark)">
+    <source srcset=".github/workflows/banner_light.svg" media="(prefers-color-scheme: light)">
+    <img src=".github/workflows/banner_light.svg" alt="banner" />
+  </picture>
+  
   <img src="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/refs/heads/output/output.png">
 </p>
