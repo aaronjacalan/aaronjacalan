@@ -26,6 +26,9 @@ jobs:
           ball_color: "#ccff00"
           bricks_colors: "#3d4d00,#7a9900,#a8d400,#ccff00,#ddff66"
 
+      - name: Debug output files
+        run: find . -name "*.svg" 2>/dev/null || echo "No SVGs found anywhere"
+
       - name: Move generated SVGs to temp
         run: |
           mkdir -p /tmp/breakout-images
