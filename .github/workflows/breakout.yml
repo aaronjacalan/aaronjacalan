@@ -2,7 +2,7 @@ name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"  
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,8 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    env:
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
