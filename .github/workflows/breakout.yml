@@ -2,8 +2,8 @@ name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 */24 * * *"   # runs daily
-  workflow_dispatch:           # lets you trigger it manually
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
 
 jobs:
   generate-svg:
@@ -11,20 +11,17 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate SVG
+      - name: generate SVG
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-          enable_ghost_bricks: false        # ← disable ghosting here
-          paddle_color: "#FF6B6B"           # ← custom paddle color
-          ball_color: "#FFD93D"             # ← custom ball color
-          # bricks_colors: "github_dark"   # ← or use a preset
 
-      - name: Move SVGs to temp
+      - name: Move generated SVGs to temp
         run: |
           mkdir -p /tmp/breakout-images
           mv output/light.svg /tmp/breakout-images/breakout-light.svg
@@ -35,7 +32,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and force-push to branch
+      - name: Commit and force-push SVGs to target branch
         run: |
           git checkout --orphan github-breakout
           git rm -rf .
