@@ -32,7 +32,7 @@
 
 <h1 align="center"></h1>
 <div align="center">
-  <img src="assets/banner.svg" style="filter: brightness(0) invert(1);" />
+  <img src=".github/workflows/banner.svg" style="filter: brightness(0) invert(1);" />
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/refs/heads/output/output.png">
