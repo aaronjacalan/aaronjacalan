@@ -11,21 +11,25 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate SVG
+      - name: Generate SVG
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
+          enable_ghost_bricks: false
+          paddle_color: "#ccff00"
+          ball_color: "#ccff00"
+          bricks_colors: "#3d4d00,#7a9900,#a8d400,#ccff00,#ddff66"
 
       - name: Move generated SVGs to temp
         run: |
           mkdir -p /tmp/breakout-images
           mv output/light.svg /tmp/breakout-images/breakout-light.svg
           mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
+          mv output/custom.svg /tmp/breakout-images/breakout-custom.svg
 
       - name: Configure git
         run: |
