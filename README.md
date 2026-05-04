@@ -33,8 +33,8 @@
 <h1></h1>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/github-breakout/images/breakout-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/github-breakout/images/breakout-light.svg" />
-    <img alt="github-breakout" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/github-breakout/images/breakout-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/github-breakout/images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/github-breakout/images/breakout-light.svg" />
+    <img alt="github-breakout" src="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/github-breakout/images/breakout-light.svg" />
   </picture>
 </p>
