@@ -33,23 +33,8 @@
 <h1></h1>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake.svg" />
-    <img alt="GitHub activity graph" src="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/output/github-snake.svg" />
-  </picture>
-</p>
-
-<h1></h1>
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="{YOUR IMAGE URL}/images/breakout-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="{YOUR IMAGE URL}/images/breakout-light.svg"
-    />
-    <img alt="Breakout Game" src="{YOUR IMAGE URL}/images/breakout-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/github-breakout/images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/github-breakout/images/breakout-light.svg" />
+    <img alt="github-breakout" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/github-breakout/images/breakout-light.svg" />
   </picture>
 </p>
