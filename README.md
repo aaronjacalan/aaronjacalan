@@ -32,5 +32,5 @@
 
 <h1></h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/github-breakout/images/breakout-custom.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/github-breakout/images/breakout-custom.svg">
 </p>
