@@ -31,9 +31,11 @@
 </p>
 
 <h1 align="center"></h1>
-<div align="center">
-  <img src=".github/workflows/banner.svg" style="filter: brightness(0) saturate(100%) invert(56%) sepia(88%) saturate(424%) hue-rotate(78deg) brightness(98%) contrast(92%);" />
-</div>
+<picture>
+  <source srcset=".github/workflows/banner-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset=".github/workflows/banner-light.svg" media="(prefers-color-scheme: light)">
+  <img src=".github/workflows/banner-light.svg" alt="banner" />
+</picture>
 <p align="center">
   <img src="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/refs/heads/output/output.png">
 </p>
