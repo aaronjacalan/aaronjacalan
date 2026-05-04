@@ -32,7 +32,7 @@
 
 <h1 align="center"></h1>
 <div align="center">
-  <img src="banner.svg" alt="TOUCH GRASS" />
+  <img src=".github/workflows/banner.svg" alt="TOUCH GRASS" />
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/refs/heads/output/output.png">
