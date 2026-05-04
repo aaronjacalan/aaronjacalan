@@ -32,5 +32,5 @@
 
 <h1></h1>
 <p align="center">
-  ![Breakout Game](https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/github-breakout/images/breakout-custom.svg)
+  <img src="https://raw.githubusercontent.com/aaronjacalan/aaronjacalan/github-breakout/images/breakout-custom.svg" width="100%">
 </p>
